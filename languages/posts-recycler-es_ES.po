@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-04-14 10:35-0400\n"
+"PO-Revision-Date: 2017-04-14 11:07-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin.php:3 includes/functions.php:3 posts-recycler.php:16
+msgid "Cannot access pages directly."
+msgstr "No puede acceder directamente a esta pagina directamente."
+
+#: includes/admin.php:294
+msgid "Posts recycler"
+msgstr "Reciclador de entradas de blog"
+
+#: includes/admin.php:309
+msgid "Rotation status"
+msgstr "Estado de la rotación"
+
+#: includes/admin.php:324
+msgid "Queued posts"
+msgstr "Entradas de blog en fila"
+
+#: includes/admin.php:341
+msgid "Configure recycler"
+msgstr "Configure el reciclador de entradas de blog"
+
+msgid "Choose your timezone"
+msgstr "Escoja su zona horaria"
+
+msgid "Timezone set"
+msgstr "Zona horaria escojida"
+
+msgid "Enable rotation"
+msgstr "Activar la rotación"
+
+msgid "Fixed rotation"
+msgstr "Rotation fija"
+
+msgid "Recycle posts every"
+msgstr "Reciclar las entradas de blog cada"
+
+msgid "hours"
+msgstr "horas"
+
+msgid "Offset post rotation by number of posts"
+msgstr "Desplazar la rotación de las entrada de blog por este numero"
+
+msgid "Number of queued posts to show in the admin"
+msgstr "Número de entradas de blog mostradas en la administración"
+
+msgid "Included categories"
+msgstr "Categorias incluidas"
+
+msgid "Selected categories to recycle"
+msgstr "Categorías seleccionadas para reciclar"
+
+msgid "All"
+msgstr "Todas"
+
+msgid "Post types"
+msgstr "Tipos de entradas de blog"
+
+msgid "Selected post types to recycle"
+msgstr "Tipos de entradas de blog para reciclar"
+
+msgid "Clean uninstall"
+msgstr "Desinstalación completa"
+
+msgid ""
+"Delete all options from database when you delete this plugin (if you only "
+"deactivate the plugin, the options won't be deleted)"
+msgstr ""
+"Borrar todas las opciones de la base de datos cuando borre este plugin (Si "
+"solo desactiva el plugin, las opciones no seran borradas)"
+
+msgid "Do you like this plugin?"
+msgstr "Le gusta este plugin?"
+
+msgid "Thank you."
+msgstr "Gracias."
+
+msgid "You do not have administrative privileges to access this page"
+msgstr "Usted no tiene acceso administrativo para esta página"
+
+msgid "%1$d days, %2$d hours, %3$d minutes, %4$d seconds"
+msgstr "%1$d días, %2$d horas, %3$d minutos, %4$d segundos"
+
+msgid "Last rotation: "
+msgstr "Última rotación: "
+
+msgid "Next rotation: "
+msgstr "Próxima rotación: "
+
+msgid "Rotation countdown: "
+msgstr "Cuenta regresiva a la próxima rotación: "
+
+msgid "Rotation is enabled"
+msgstr "La rotación esta activada"
+
+msgid "Rotation is disabled"
+msgstr "La rotación está desactivada"
+
+msgid "Please pick which  %1$scategories to rotate%2$s"
+msgstr "Por favor seleccione qué %1$scategorías reciclar%2$s"
+
+msgid "Rotation will only work on posts from picked categories."
+msgstr ""
+"La rotación se aplicará solamente a entradas de blog de las categorías "
+"escogidas."
+
+msgid "but there are no posts that match the categories chosen."
+msgstr "pero no hay ningún entrada de blog que coincide con tu criterio."
+
+msgid "Please %1$srate it on the depository%2$s"
+msgstr "Por favor %1$sevaluelo en el depositorio%2$s"
+
+msgid ""
+"Posts recycler is based on %1$sPost Rotation%2$s by %3$sdigitalemphasis%4$s"
+msgstr ""
+"El reciclador de entradas de blog está basado en el %1$srotador de entradas "
+"de blog%2$s de %3$sdigitalemphasis%4$s"
+
+msgid ""
+"This plugin requires Wordpress version %1$d or higher. Please consider "
+"upgrading your Wordpress installation."
+msgstr ""
+"Este plugin requiere una version de Wordpress de %1$d o mayor. Por favor, "
+"considere actualizar su instalación de Wordpress."
+
+msgid "Click here to set-up Posts Recycler"
+msgstr "Haga clic aquí para preparar el Reciclador de Entradas de Blog"
+
+msgid "Thank you for using posts recycler!"
+msgstr "Gracias por usar el reciclador de entradas de blog!"
+
+msgid "By default, the plugin is not active yet."
+msgstr "El plugin no esta activado todavía."
+
+msgid ""
+"The queue offset you have entered is equal to the available queue items. The "
+"default offset of 0 will be used."
+msgstr ""
+"El desplazamiento de fila que used ha escogido es igual a la cantidad de "
+"entradas de blog. Se utilizará el desplazamiento de base 0."
+
+msgid ""
+"The queue offset you have entered is larger than the available queue items. "
+"The default offset of 0 will be used."
+msgstr ""
+"El desplazamiento de fila que used ha escogido es más grande que a la "
+"cantidad de entradas de blog. Se utilizará el desplazamiento de base 0."
+
+msgid ""
+"You have entered an invalid queue offset. The default offset of 0 will be "
+"used."
+msgstr ""
+"Uste ha escogido un número invalido. El número predeterminado de 1 será "
+"usado."
+
+msgid "A queue number must be submitted. The default of 10 will be used."
+msgstr ""
+"Usted debe escojer un numero para la cola de entradas de blog. El valor de "
+"base de 0 será usado."
+
+msgid ""
+"The post interval must be between 1 and 999. The default of 1 has been used "
+"instead."
+msgstr ""
+"Uste ha escogido un número invalido. El número predeterminado de 1 será "
+"usado."
+
+msgid "Settings"
+msgstr "Configuración"
+
+msgid "Posts Recycler"
+msgstr "Reciclador de Entradas de Blog"
+
+msgid "Interval in hours"
+msgstr "Intervalo en horas"
+
+msgid "without new posts"
+msgstr "sin entradas de blog"
+
+msgid ""
+"You have entered an invalid value. The default value of 24 hours will be "
+"used instead."
+msgstr ""
+"Uste ha escogido un número invalido. El número predeterminado de 24 será "
+"usado."
